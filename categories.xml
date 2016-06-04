@@ -4,19 +4,24 @@
 	  <!-- banner_ad: optional element which displays an at the top level category screen -->
 	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
 	  
-	<category title="Technology" description="TED Talks on Technology" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png">
-		<categoryLeaf title="The Mind" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/themind.xml"/>
-		<categoryLeaf title="Global Issues" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
+	<category title="LIVE TV" description="Chaines en direct" sd_img="http://orig10.deviantart.net/d7b1/f/2011/149/0/3/live_tv_logo_design_by_hindwebdesigns-d3hhy78.jpg" hd_img="http://orig10.deviantart.net/d7b1/f/2011/149/0/3/live_tv_logo_design_by_hindwebdesigns-d3hhy78.jpg">
+		<categoryLeaf title="Francais" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/themind.xml"/>
+		<categoryLeaf title="Espagnol" description="" feed="http://jamilou.e-monsite.com/medias/files/5themind.xml" />
+	<categoryLeaf title="Arabe" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
+	<categoryLeaf title="Anglais" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
+		<categoryLeaf title="Sport" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
+	<categoryLeaf title="Musique" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
+
 	</category>
 
-	<category title="Entertainment" description="TED Talks on Entertainment" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Entertainment.png">
-		<categoryLeaf title="Music" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/music.xml" />
-		<categoryLeaf title="Inspiration" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/inspiration.xml" />
+	<category title="VOD" description="Video On Demand" sd_img="http://trends.cmf-fmc.ca/media/uploads/blog/shutterstock_VOD.jpg" hd_img="http://trends.cmf-fmc.ca/media/uploads/blog/shutterstock_VOD.jpg">
+		<categoryLeaf title="Francais" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/music.xml" />
+		<categoryLeaf title="Anglais" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/inspiration.xml" />
 	</category>
 
-	<category title="Design" description="TED Talks on Design" sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Design.png">
-		<categoryLeaf title="Creativity" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
-		<categoryLeaf title="Design" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/design.xml" />
+	<category title="Nous contacter" description="Numéro et adresse courriel" sd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg" hd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg">
+		<categoryLeaf title="Test" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
+		<categoryLeaf title="Test2" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/design.xml" />
 	</category>
 
  </categories>
