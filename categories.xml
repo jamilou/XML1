@@ -19,7 +19,7 @@
 		<categoryLeaf title="Anglais" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/inspiration.xml" />
 	</category>
 
-	<category title="Nous contacter" description="Numéro et adresse courriel" sd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg" hd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg">
+	<category title="Nous contacter " description="Numéro et adresse courriel" sd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg" hd_img="http://felchurch.org/wp-content/uploads/2013/03/contact_us_banner.jpg">
 		<categoryLeaf title="Test" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/creativity.xml"/>
 		<categoryLeaf title="Test2" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/design.xml" />
 	</category>
